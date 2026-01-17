@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256"><svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <!-- Background -->
+  <rect width="256" height="256" rx="56" fill="#0B0F19"></rect>
+
+  <!-- Bridge dots -->
+  <circle cx="88" cy="128" r="18" fill="#2D6BFF"></circle>
+  <circle cx="168" cy="128" r="18" fill="#2D6BFF"></circle>
+
+  <!-- Bridge line -->
+  <rect x="106" y="120" width="44" height="16" rx="8" fill="#2D6BFF"></rect>
+</svg></svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
